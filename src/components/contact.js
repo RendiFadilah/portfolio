@@ -13,7 +13,7 @@ class Contact extends Component {
                         src={Gambar} alt="Avatar"
                         style={{height: '250px', borderRadius: '5px'}}
                     />
-                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>Seorang Web Developer yang mempunyai pengalaman membuat aplikasi pemesanan online menggunakan  HTML, CSS, Javascript, PHP serta dengan bantuan framework Bootstrap dan CodeIgniter. Serta memiliki pengetahuan tentang ExpressJS, ReactJS dan UI/UX Design </p>
                 </Cell>
                 <Cell col={6}>
                     <h2>Contact Me</h2>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Tabs, Tab, Grid, Cell, Card,CardText, CardTitle, CardActions, Button, CardMenu, IconButton} from 'react-mdl';
+import { Tabs, Tab, Grid, Cell, Card,CardText, CardTitle, CardActions, CardMenu, IconButton} from 'react-mdl';
 
 class Projects extends Component {
     constructor(props){
@@ -13,14 +13,44 @@ class Projects extends Component {
                 <div className="projects-grid">
                     {/** HTML CSS PROJECTS 3 */}
                     <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://s3-eu-west-1.amazonaws.com/devinterface-web/production/technologies/35/medium/html5css3-111.png?1444285720) center / cover'}}>HTML  & CSS Projects #1</CardTitle>
+                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://s3-eu-west-1.amazonaws.com/devinterface-web/production/technologies/35/medium/html5css3-111.png?1444285720) center / cover'}}>HTML, CSS & JS Projects #1</CardTitle>
                         <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            Website Profile Page use HTML, CSS  & Javascript
                          </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                        <a href="https://github.com/RendiFadilah/profile-page-rendifadilah" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="https://github.com/RendiFadilah/profile-page-rendifadilah" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="https://www.instagram.com/rendifdl05" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -29,14 +59,45 @@ class Projects extends Component {
 
                     {/** HTML CSS PROJECTS 2 */}
                     <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                         <CardTitle style={{color: '#000', height:'176px', background: 'url(https://s3-eu-west-1.amazonaws.com/devinterface-web/production/technologies/35/medium/html5css3-111.png?1444285720) center / cover'}}>HTML  & CSS Projects #2</CardTitle>
+                         <CardTitle style={{color: '#000', height:'176px', background: 'url(https://s3-eu-west-1.amazonaws.com/devinterface-web/production/technologies/35/medium/html5css3-111.png?1444285720) center / cover'}}>HTML, CSS & JS Projects #2</CardTitle>
                         <CardText>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                            <a href="https://github.com/RendiFadilah/arkademy" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="https://github.com/RendiFadilah/arkademy" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="https://www.instagram.com/rendifdl05" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
+                          
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -45,14 +106,44 @@ class Projects extends Component {
 
                 {/** HTML CSS PROJECTS 3 */}
                     <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://s3-eu-west-1.amazonaws.com/devinterface-web/production/technologies/35/medium/html5css3-111.png?1444285720) center / cover'}}>HTML  & CSS Projects #3</CardTitle>
+                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://s3-eu-west-1.amazonaws.com/devinterface-web/production/technologies/35/medium/html5css3-111.png?1444285720) center / cover'}}>HTML, CSS & JS Projects #3</CardTitle>
                         <CardText>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                        <a href="https://github.com/RendiFadilah/jpone-corp" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="https://github.com/RendiFadilah/jpone-corp" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="https://www.instagram.com/rendifdl05" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -72,9 +163,39 @@ class Projects extends Component {
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                          </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                        <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -87,9 +208,39 @@ class Projects extends Component {
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                          </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                        <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -102,9 +253,39 @@ class Projects extends Component {
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                          </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                        <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -121,9 +302,39 @@ class Projects extends Component {
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                          </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                        <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -136,9 +347,39 @@ class Projects extends Component {
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                          </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                        <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -152,9 +393,39 @@ class Projects extends Component {
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                          </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>LiveDemo</Button>
-                            <Button colored>Contact</Button>
+                        <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                GITHUB
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                LIVEDEMO
+                            </a>
+                            <a href="/" rel="noopener noreferrer" target="_blank"
+                            style={{
+                                color: '#000',
+                                textDecoration: 'none',
+                                padding: 5,
+                                fontSize: 15,
+                                marginLeft: 20
+                                
+                            }}>
+                                CONTACT
+                            </a>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />

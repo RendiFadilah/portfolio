@@ -16,16 +16,16 @@ class Landing extends Component {
                             <h1>Full Stack Web Developer</h1>
                             <hr/>
 
-                            <p>HTML/CSS | Bootstrap | Javascript | NodeJS | RestAPI | ExpressJS | ReactJS | PHP | CodeIgniter</p>
+                            <p>HTML | CSS | Bootstrap | Javascript | ExpressJS | ReactJS | PHP | CodeIgniter | Laravel</p>
 
                             <div className="social-links">
                                 {/* Linkedin*/}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.facebook.com/rendi.fadillah.39" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-facebook-square" aria-hidden="true" />
                                 </a>
 
                                 {/* Github */}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/RendiFadilah" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
 
@@ -36,8 +36,8 @@ class Landing extends Component {
 
                                 {/** Instagram */}
 
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
-                                    <i className="fa fa-youtube-square" aria-hidden="true" />
+                                <a href="https://www.instagram.com/rendifdl05" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-instagram" aria-hidden="true" />
                                 </a>
                             </div>
 
