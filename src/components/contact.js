@@ -13,7 +13,7 @@ class Contact extends Component {
                         src={Gambar} alt="Avatar"
                         style={{height: '250px', borderRadius: '5px'}}
                     />
-                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>Seorang Web Developer yang mempunyai pengalaman membuat aplikasi pemesanan online menggunakan  HTML, CSS, Javascript, PHP serta dengan bantuan framework Bootstrap dan CodeIgniter. Serta memiliki pengetahuan tentang ExpressJS, ReactJS dan UI/UX Design </p>
+                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>Someone Full Stack Web Developer have experienced to create the online order application with use HTML,CSS,JavaScript,PHP with help framework Bootstrap and CodeIgniter. And have knowledge about ReactJS, ExpressJS and UI/UX design and have a high spirit to learn about the new technology </p>
                 </Cell>
                 <Cell col={6}>
                     <h2>Contact Me</h2>

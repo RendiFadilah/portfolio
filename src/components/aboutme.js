@@ -21,19 +21,20 @@ class AboutMe extends Component {
                     <h2>About Me</h2>
                     <hr/>
                     <div className="about-left">
-                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em', marginBottom: 40}}>A Full Stack Web Developer who has experience creating online ordering applications using HTML, CSS, Javascript, PHP and with the help of the Bootstrap and CodeIgniter framework. As well as having knowledge about ReactJS, ExpressJS and UI/UX Design and have a high enthusiasm to learn new technology.
- </p>
+                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em', marginBottom: 40}}>Someone Full Stack Web Developer have experienced to create the online order application with use HTML,CSS,JavaScript,PHP with help framework Bootstrap and CodeIgniter. And have knowledge about ReactJS, ExpressJS and UI/UX design and have a high spirit to learn about the new technology
+                    </p>
 
                     <a href="https://www.instagram.com/rendifdl05" rel="noopener noreferrer" target="_blank"
                             style={{
-                                color: '#000',
+                                color: '#fff',
                                 textDecoration: 'none',
                                 padding: 10,
                                 borderRadius: 3,
                                 fontSize: 15,
                                 marginLeft: 20,
                                 marginTop: 50,
-                                backgroundColor: '#fcb845'
+                                backgroundColor: '#063894'
+                                
                                 
                             }}>
                                 Contact Me

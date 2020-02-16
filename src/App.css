@@ -1,13 +1,13 @@
 .header-color{
-  background: #833ab4;
-  background: -webkit-linear-gradient(to right, #fcb845, #fd1d1d, #833ab4);
-  background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+ 
+  background: rgb(8,45,91);
+background: linear-gradient(90deg, rgba(8,45,91,1) 5%, rgba(8,45,91,1) 10%, rgba(6,56,148,1) 24%, rgba(12,117,254,1) 78%, rgba(39,105,173,1) 100%);
 }
 
 .landing-grid{
-  background: #833ab4;
-  background: -webkit-linear-gradient(to right, #fcb845, #fd1d1d, #833ab4);
-  background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+  
+  background: rgb(8,45,91);
+  background: linear-gradient(90deg, rgba(8,45,91,1) 5%, rgba(8,45,91,1) 10%, rgba(6,56,148,1) 24%, rgba(12,117,254,1) 78%, rgba(39,105,173,1) 100%);
   text-align: center;
   position: fixed;
   top: 0;

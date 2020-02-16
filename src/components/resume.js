@@ -21,12 +21,12 @@ import SKills from './skills';
                         <h2 style={{paddingTop:'2em'}}>Rendi Fadilah</h2>
                         <h4 style={{color: 'grey'}}>Full Stack Web Developer</h4>
                         <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-                        <p>A Full Stack Web Developer who has experience creating online ordering applications using HTML, CSS, Javascript, PHP and with the help of the Bootstrap and CodeIgniter framework. As well as having knowledge about ReactJS, ExpressJS and UI / UX Design and have a high enthusiasm to learn new technology.
+                        <p>Someone Full Stack Web Developer have experienced to create the online order application with use HTML,CSS,JavaScript,PHP with help framework Bootstrap and CodeIgniter. And have knowledge about ReactJS, ExpressJS and UI/UX design and have a high spirit to learn about the new technology
                         </p>
                         <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
                         <h5>Address</h5>
                         <p>Jl. Petojo Utara V No 13C</p>
-                        <h5>Kontak</h5>
+                        <h5>Contact</h5>
                         <p>+62 882 2394 7715</p>
                         <h5>Email</h5>
                         <p>rendifadillah009@gmail.com</p>
