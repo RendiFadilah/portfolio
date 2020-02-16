@@ -30,7 +30,7 @@ class Landing extends Component {
                                 </a>
 
                                 {/* Facebook */ }
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://twitter.com/Rendi_Testa" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-twitter-square" aria-hidden="true" />
                                 </a>
 

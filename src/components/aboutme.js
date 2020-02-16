@@ -21,7 +21,7 @@ class AboutMe extends Component {
                     <h2>About Me</h2>
                     <hr/>
                     <div className="about-left">
-                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em', marginBottom: 40}}>Someone Full Stack Web Developer have experienced to create the online order application with use HTML,CSS,JavaScript,PHP with help framework Bootstrap and CodeIgniter. And have knowledge about ReactJS, ExpressJS and UI/UX design and have a high spirit to learn about the new technology
+                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em', marginBottom: 40}}>Someone Full Stack Web Developer have experienced to create the online order application with use HTML,CSS,JavaScript,PHP with help framework Bootstrap and CodeIgniter. And have knowledge about ReactJS, ExpressJS and UI/UX design and have a high spirit to learn about the new technology.
                     </p>
 
                     <a href="https://www.instagram.com/rendifdl05" rel="noopener noreferrer" target="_blank"

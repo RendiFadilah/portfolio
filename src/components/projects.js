@@ -61,7 +61,7 @@ class Projects extends Component {
                     <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
                          <CardTitle style={{color: '#000', height:'176px', background: 'url(https://s3-eu-west-1.amazonaws.com/devinterface-web/production/technologies/35/medium/html5css3-111.png?1444285720) center / cover'}}>HTML, CSS & JS Projects #2</CardTitle>
                         <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            Project class Arkademy HTML, CSS, Javascript.
                         </CardText>
                         <CardActions border>
                             <a href="https://github.com/RendiFadilah/arkademy" rel="noopener noreferrer" target="_blank"
@@ -104,11 +104,12 @@ class Projects extends Component {
                         </CardMenu>
                     </Card>
 
-                {/** HTML CSS PROJECTS 3 */}
+                {/** HTML CSS PROJECTS 3 */} 
                     <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
                         <CardTitle style={{color: '#000', height:'176px', background: 'url(https://s3-eu-west-1.amazonaws.com/devinterface-web/production/technologies/35/medium/html5css3-111.png?1444285720) center / cover'}}>HTML, CSS & JS Projects #3</CardTitle>
                         <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            
+                            Application Online Ordering use HTML, CSS, JS, PHP and framework Bootstrap & Codeigniter 
                         </CardText>
                         <CardActions border>
                         <a href="https://github.com/RendiFadilah/jpone-corp" rel="noopener noreferrer" target="_blank"
@@ -157,280 +158,13 @@ class Projects extends Component {
         } else if(this.state.activeTab === 1){
             return(
                 <div className="projects-grid">
-                     <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtE-kpWjaCojxvLlmmMcv1rnk2GNhT_0oIamqjRmq4yZOpkUc0) center / cover'}}>PHP PROJECT #1</CardTitle>
-                        <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                         </CardText>
-                        <CardActions border>
-                        <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                GITHUB
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                LIVEDEMO
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                CONTACT
-                            </a>
-                        </CardActions>
-                        <CardMenu style={{color: '#fff'}}>
-                            <IconButton name="share" />
-                        </CardMenu>
-                    </Card>
-
-                    <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtE-kpWjaCojxvLlmmMcv1rnk2GNhT_0oIamqjRmq4yZOpkUc0) center / cover'}}>PHP PROJECT #2</CardTitle>
-                        <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                         </CardText>
-                        <CardActions border>
-                        <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                GITHUB
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                LIVEDEMO
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                CONTACT
-                            </a>
-                        </CardActions>
-                        <CardMenu style={{color: '#fff'}}>
-                            <IconButton name="share" />
-                        </CardMenu>
-                    </Card>
-                    
-                    <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtE-kpWjaCojxvLlmmMcv1rnk2GNhT_0oIamqjRmq4yZOpkUc0) center / cover'}}>PHP PROJECT #3</CardTitle>
-                        <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                         </CardText>
-                        <CardActions border>
-                        <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                GITHUB
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                LIVEDEMO
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                CONTACT
-                            </a>
-                        </CardActions>
-                        <CardMenu style={{color: '#fff'}}>
-                            <IconButton name="share" />
-                        </CardMenu>
-                    </Card>
+                    <h1>Coming Soon</h1>
                 </div>
             )
         } else if(this.state.activeTab === 2){
             return(
                 <div className="projects-grid">
-                         <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYQ-vEAPlwic-WL49F9wf_ZOkN4IhB8car0s1kRp51dTgklIPv) center / cover'}}>ReactJS PROJECT #1</CardTitle>
-                        <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                         </CardText>
-                        <CardActions border>
-                        <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                GITHUB
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                LIVEDEMO
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                CONTACT
-                            </a>
-                        </CardActions>
-                        <CardMenu style={{color: '#fff'}}>
-                            <IconButton name="share" />
-                        </CardMenu>
-                    </Card>
-
-                    <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYQ-vEAPlwic-WL49F9wf_ZOkN4IhB8car0s1kRp51dTgklIPv) center / cover'}}>ReactJS PROJECT #2</CardTitle>
-                        <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                         </CardText>
-                        <CardActions border>
-                        <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                GITHUB
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                LIVEDEMO
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                CONTACT
-                            </a>
-                        </CardActions>
-                        <CardMenu style={{color: '#fff'}}>
-                            <IconButton name="share" />
-                        </CardMenu>
-                    </Card>
-
-
-                    <Card shadow={3} style={{minWidth: '450', margin:'auto'}}>
-                        <CardTitle style={{color: '#000', height:'176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYQ-vEAPlwic-WL49F9wf_ZOkN4IhB8car0s1kRp51dTgklIPv) center / cover'}}>ReactJS PROJECT #3</CardTitle>
-                        <CardText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                         </CardText>
-                        <CardActions border>
-                        <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                GITHUB
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                LIVEDEMO
-                            </a>
-                            <a href="/" rel="noopener noreferrer" target="_blank"
-                            style={{
-                                color: '#000',
-                                textDecoration: 'none',
-                                padding: 5,
-                                fontSize: 15,
-                                marginLeft: 20
-                                
-                            }}>
-                                CONTACT
-                            </a>
-                        </CardActions>
-                        <CardMenu style={{color: '#fff'}}>
-                            <IconButton name="share" />
-                        </CardMenu>
-                    </Card>
+                        <h1>Coming Soon</h1>
                 </div>
             )
         } else if(this.state.activeTab === 3){
